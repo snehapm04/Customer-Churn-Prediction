@@ -77,10 +77,3 @@ The application uses a **Random Forest Classifier** trained on banking customer 
 Performance metrics based on test data:
 - Accuracy: ~86%
 - ROC-AUC Score: ~0.73
-
-
-
-
----
-
-Created with ❤️ by [Your Name]
